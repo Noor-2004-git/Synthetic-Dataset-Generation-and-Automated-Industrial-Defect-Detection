@@ -254,24 +254,6 @@ All coordinates are normalized between 0 and 1.
 
 ---
 
-## 📈 Training Outputs
-
-After training, YOLOv8 generates:
-
-```text
-runs/
-└── detect/
-    └── train/
-        ├── weights/
-        │   ├── best.pt
-        │   └── last.pt
-        ├── results.png
-        ├── confusion_matrix.png
-        ├── PR_curve.png
-        └── F1_curve.png
-```
-
----
 
 ## 🎯 Applications
 
