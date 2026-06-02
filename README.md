@@ -167,6 +167,8 @@ Examples include:
 - Missing features
 - Wrong colors
 - Incorrect orientations
+example:
+<img width="735" height="706" alt="image" src="https://github.com/user-attachments/assets/2715ef99-0e53-4866-9ed7-2bdbb17ac250" />
 
 ---
 
